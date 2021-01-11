@@ -10,12 +10,12 @@
   "text": {
     "more": "Actores y organizaciones con estrategias de economia circular en Ecuador",
     "intro": "Actores y organizaciones con estrategias de economia circular en Ecuador",
-    "title": "EC Ecuador"
+    "title": "Actores Economía Circular Ecuador"
   },
   "legend": {
-    "edgeLabel": "Strategies",
+    "edgeLabel": "Número de conexiones",
     "colorLabel": "type",
-    "nodeLabel": "Organizations"
+    "nodeLabel": "Actores"
   },
   "features": {
     "search": true,
